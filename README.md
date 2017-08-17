@@ -30,7 +30,6 @@ Play nice; Play fair.
 
 * Apache Kafka >=0.9
 * Node.js >=4
-* Linux/Mac (Sorry Windows :()
 
 __NOTE:__ From the `librdkafka` docs
 
